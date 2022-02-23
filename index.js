@@ -9,3 +9,7 @@ alert("Horay!");
 alert("yes!");
 
 console.log("hello new world!");
+
+alert("Horay!");
+
+alert("yes!");
