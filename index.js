@@ -7,3 +7,5 @@ console.log("hello world!");
 alert("Horay!");
 
 alert("yes!");
+
+console.log("hello new world!");
