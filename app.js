@@ -3,3 +3,10 @@ const App = () => {
 }
 
 export default App;
+
+const App = () => {
+    return (hi);
+}
+
+export default App;
+
